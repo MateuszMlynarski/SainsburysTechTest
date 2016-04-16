@@ -1,0 +1,4 @@
+argparse
+asyncio
+aiohttp
+bs4
